@@ -8,4 +8,4 @@
 ### Press X to FreemCam Teleport
 
 ## Loadstring/Code:
-### ```loadstring(game:HttpGet('https://raw.githubusercontent.com/Frostbite-Tech/Frostbite-Universal-Roblox-Menu/main/menu.lua'))()```
+### ```loadstring(game:HttpGet('https://raw.githubusercontent.com/fredericodeveloper/Universal-Roblox-Menu/main/main.lua'))()```
