@@ -1,4 +1,4 @@
-# FrostBite Tech Universal Roblox Cheat
+# Universal Roblox Cheat
 
 ## Please Donate to Us:
 ### Bitcoin: bc1q2vuvr73yxjlx8x5hdddmstydlaffv090mu293u
@@ -6,9 +6,6 @@
 
 ## If you use any parts of the cheat on your own project, please credit me.
 ### Infinite Yield was used as an inspiration for this menu.
-
-## FrostBite Tech Support:
-### Discord: https://discord.gg/AmE6eRjtzM
 
 ## KeyBinds
 ### Press F4 to toggle
